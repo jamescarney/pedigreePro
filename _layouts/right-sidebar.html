@@ -21,8 +21,13 @@
 					<div class="container">
 						<header class="major">
 							<h2>{{ page.title | upcase }}</h2>
-							<p>Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan</p>
-						</header>
+
+
+{% if page.tagline != null %}
+						<p>{{ page.tagline }}</p>
+					{% else %}
+						<p>{{ site.tagline }}</p>
+						{% endif %}						</header>
 						<div class="row 150%">
 							<div class="8u 12u$(medium)">
 

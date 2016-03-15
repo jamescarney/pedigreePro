@@ -12,9 +12,12 @@ description: > # this means to ignore newlines until "baseurl:"
   Pedigree Productions makes sales catalogs for horse sales, bloodstock agents and a lot of other people. All thoroughbred pedigrees made to order. Contact for more information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pedigreepro.net" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+tagline: We'll do everything in our power to help your horse shine in their best light.
+twitter_username: pedigree_pro
 github_username:  jekyll
-facebook_username: something
+facebook_username: pedigreepro
+instagram_username: something
+linkedin_username: pedigree-productions
 
 # Build settings
 markdown: kramdown

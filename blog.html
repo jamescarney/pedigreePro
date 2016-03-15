@@ -1,23 +1,18 @@
 ---
-title: blog
+title: Blog
 permalink: /blog
 layout: right-sidebar
+weight: 100
 ---
 
-
-
-
-<ul class="post-list">
-              {% for post in site.posts %}
-                <li>
-                  <h2>
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </h2>
-                  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                  
-                  {{ post.excerpt }} <br>
-                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
-                </li>
-                <hr>
-              {% endfor %}
-            </ul>
+<div class="post-list">
+  {% for post in site.posts %}
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    
+    {{ post.excerpt }} <br>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+  {% endfor %}
+</div>
