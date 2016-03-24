@@ -20,3 +20,16 @@ If you are interested in buying a pedigree that is hand designed for your horse 
 If you are interested in what type of work we do, I'll give you a hint - It's great work. We have been in business for over 40 years, and we don't get to stay in business unless we bust our butt making sure we produce the nicest looking and best written pedigree out there. So when we say our work is great work, we aren't being arrogant, we are being honest and confident. We've built and maintained a business based off the quality of our work and we are proud of that. 
 
 If you want to see some samples of what we've done in the past, go check out the home page and you'll see a list of the different products we've made in the past. We've generally make sales catalogs, books for in house uses for farms, bloodstock agents and consigners. If you are interested in that, then email [James](mailto:james@pedigreepro.net). If you have something that's unique, then drop a line [here](mailto:james@pedigreepro.net), and we'll work with you to solve your problem.
+
+###Work Samples
+
+If you need to see some examples of what we've done, look no more.
+
+We have a lot of different pedigrees and styles of books we can do, so here is a list of the most popular:
+
+<ul class="actions">
+	<li><a href="/pocket-pedigrees.html">Pocket Pedigrees</a></li>
+	<li><a href="/pedigree-portfolio.html">Pedigree Portfolio</a></li>
+	<li><a href="/customized-pedigree.html">Customized Pedigrees</a></li>
+	<li><a href="/catalogs">Sales Catalogs</a></li>
+</ul>

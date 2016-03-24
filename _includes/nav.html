@@ -5,10 +5,12 @@
 
 		
 		{% for my_page in site.pages %}
+			{% if my_page.navigation != false %}
 	      {% if my_page.title %}
 	         <li>
 	             <a  href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title | capitalize }}</a>
 	         </li>
+	      {% endif %}
 	      {% endif %}
 	    {% endfor %}
 		</ul>
